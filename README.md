@@ -16,7 +16,7 @@
 
 ## How this maps to the plan
 
-See `_MASTER-PLAN/phase-07-frontend-fundamentals/03-FontendFundamentals_deliverables.md`
+See `_MASTER-PLAN/phase-07-frontend-fundamentals/03-FrontendFundamentals_deliverables.md`
 for the canonical pattern inventory and acceptance criteria.
 
 *Note: the `Fontend` filename typo is canonical per Phase 1 HYG-08 ratification —
