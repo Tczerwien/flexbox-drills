@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Editor junk
+.vscode/
+.idea/
+*.code-workspace
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# --- per-repo additions ---
+# (none — pure HTML/CSS repo; each pattern is one self-contained .html file with embedded <style>)
