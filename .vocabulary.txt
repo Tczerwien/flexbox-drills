@@ -1,0 +1,13 @@
+display: flex
+flex-direction
+justify-content
+align-items
+flex-wrap
+flex-basis
+flex-grow
+flex-shrink
+flex: 1
+flex: 2
+gap
+min-height: 100vh
+media query
